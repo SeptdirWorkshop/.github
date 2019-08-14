@@ -1,7 +1,7 @@
 # Политика безопасности
 
 **Прочесть на других языках:**
-[English](https://github.com/SeptdirWorkshop/.github/blob/master/SECURITY.md) |  
+[English](https://github.com/SeptdirWorkshop/.github/blob/master/SECURITY.md), 
 [Русский](https://github.com/SeptdirWorkshop/.github/blob/master/SECURITY_RU.md).
 
 Этот документ описывает политику безопасности и процедуру обработки сообщений об узывимостях.
