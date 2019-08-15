@@ -7,7 +7,7 @@
 This document describes the technical support policy and the handling of requests.
 
 #### Table Of Contents
-* [Sending request](#sending request)
+* [Sending request](#sending-request)
 * [Request handling](#request-handling)
 * [Priority support](#priority-support)
 * [Support policy](#support-policy)
