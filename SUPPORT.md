@@ -7,36 +7,35 @@
 This document describes the technical support policy and the handling of requests.
 
 #### Table Of Contents
-* [Sending request](#sending-request)
-* [Request handling](#request-handling)
-* [Priority support](#priority-support)
+* [Request Submission](#request-submission)
+* [Processing request](#processing-request)
+* [Priority support](https://www.septdir.com/support#priority)
 * [Support policy](#support-policy)
 
-## Sending request
-* To contact support, you can create an Issue in the repository or write an e-mail to support@septdir.com.
-* In the title clearly indicate the reason for the appeal title.
-* In the description clearly and in detail indicate all the necessary information. How to reproduce the error, description of the idea.
-* If you use email, then in the sender’s address use only the existing address to receive notifications about the progress of processing the request.
-* If you are ready to sponsor a solution to your problem, use [priority support](#priority-support).
+## Request Submission 
+* Choose any convenient way of contacting you  
+[Write to Email](mailto:support@septdir.com) | Create Issue on GitHub 
+* The title of the appeal must indicate the reason for the appeal  
+*Solution Name* | *Summary of problem / idea*
+* In the text of the appeal clearly and in detail indicate all the information  
+*Description of the problem / idea* | *How to reproduce the error*
+* Enter your contact details for feedback  
+*Email Address* | *Social Networks Profile* | *Messengers*
+* If you’re ready to sponsor a solution to your problem, use [priority support](https://www.septdir.com/support#priority)
 
-## Request handling
-* After receiving and verifying the appeal, a notification of the result of the verification will be sent to you.
-* If the presence of an error is confirmed, the notification will indicate the priority, as well as the possible correction time.
-* If your suggestion for improvement is intrest and useful, the priority will be indicated in the notification, as well as the possible dates for adding.
-* If you do not agree with the decision or deadlines, you can use [priority support](#priority-support).
-* Optionally, after making corrections, you may be sent a dev version of the solution with changes.
-* The release date of the fixed version with corrections depends on the priority.
+## Processing request
+After considering your request, you will be sent a notification with the result of the verification.
 
-## Priority support
-* Priority support is provided only on a fee basis.
-* Priority support requests are accepted at sale@septdir.com.
-* The organization has the right to refuse to provide priority support.
-* If your proposal is contrary to the chosen solution, you will be asked to release a separate version, especially for you.
-* In the title of the letter indicate the reason for the appeal.
-* In the letter indicate in detail all the necessary information. If possible, indicate the timeline and budget.
+The following data will be listed in the response text:
+* Priority  
+*Low* | *Medium* | *High* | *Critical*
+* Version  
+*In which version do you plan to make changes*
+* Date  
+*Estimated release date for the revised version*
 
 ## Support policy
-* Technical support requests are processed free of charge.
-* Support for ready-made solutions is free, with the exception of [priority support](#priority-support).
-* If you do not agree with the decision or deadlines, you can use [priority support](#priority-support).
-* The organization has the right to refuse to provide any support.
+* Technical support requests are processed free of charge
+* Ready-made solutions are supported free of charge, with the exception of [priority support](https://www.septdir.com/support#priority)
+* If you disagree with the decision or deadlines, you can use the [priority support](https://www.septdir.com/support#priority)
+* The organization has the right to refuse to provide any support
