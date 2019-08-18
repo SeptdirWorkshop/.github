@@ -8,7 +8,7 @@ Septdir Workshop GitHub Official Representative.
 * [Services](https://www.septdir.com/services)
 * [Contacts](https://www.septdir.com/contacts)
 * [Licenses](https://www.septdir.com/licenses)
-* [Donation](https://www.septdir.com/donation)
+* [Donate](https://www.septdir.com/donate)
 * [Contributing](CONTRIBUTING.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Security policy](SECURITY.md)

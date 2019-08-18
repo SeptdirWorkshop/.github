@@ -31,4 +31,4 @@ All our free solutions are developed through voluntary donations.
 The larger the amount collected, the faster we release updates.
 
 You can make your contribution in any way convenient for you through the form on our website.
-https://www.septdir.com/donation
+https://www.septdir.com/donate
