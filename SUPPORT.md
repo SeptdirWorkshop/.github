@@ -9,7 +9,6 @@ This document describes the technical support policy and the handling of request
 #### Table Of Contents
 * [Request Submission](#request-submission)
 * [Processing request](#processing-request)
-* [Priority support](https://www.septdir.com/support#priority)
 * [Support policy](#support-policy)
 
 ## Request Submission 
@@ -21,7 +20,6 @@ This document describes the technical support policy and the handling of request
 *Description of the problem / idea* | *How to reproduce the error*
 * Enter your contact details for feedback  
 *Email Address* | *Social Networks Profile* | *Messengers*
-* If you’re ready to sponsor a solution to your problem, use [priority support](https://www.septdir.com/support#priority)
 
 ## Processing request
 After considering your request, you will be sent a notification with the result of the verification.
@@ -36,6 +34,5 @@ The following data will be listed in the response text:
 
 ## Support policy
 * Technical support requests are processed free of charge
-* Ready-made solutions are supported free of charge, with the exception of [priority support](https://www.septdir.com/support#priority)
-* If you disagree with the decision or deadlines, you can use the [priority support](https://www.septdir.com/support#priority)
+* Ready-made solutions are supported free of charge
 * The organization has the right to refuse to provide any support
